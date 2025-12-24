@@ -1,5 +1,7 @@
  Twitwer
 
+<img width="1501" height="887" alt="Captura de tela 2025-12-24 162215" src="https://github.com/user-attachments/assets/bc60e2ca-e362-47c0-92e8-ee6a02fc25ae" />
+
 Projeto front-end (React + Vite) que replica a interface do Twitter.
 
 ## Requisitos
